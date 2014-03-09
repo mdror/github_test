@@ -6,8 +6,10 @@
     <ul>
       <l> donuts </l>
       <l> peanuts </l>
-      <l> black jelly </l>
-
+      <l> jelly </l>
+      <l> chips </l>
+      <l> pankcake mix </l>
+    </ul>
       
 
   </body>
