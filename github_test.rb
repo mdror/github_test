@@ -8,5 +8,6 @@
       <l> peanutbutter </l>
       <l> jelly </l>
       <l> yogurt </l>
+  <footer>  The footer goes here</footer>
   </body>
 </html>
